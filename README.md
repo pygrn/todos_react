@@ -6,6 +6,8 @@ https://github.com/pygrn/todos_django
 
 Projecte que forma part de la xerrada de **Python Girona** del dia 15 de Novembre de 2017.
 
+[![todos_react in Travis](https://travis-ci.org/pygrn/todos_react.svg?branch=master)](https://travis-ci.org/pygrn/todos_react)
+
 ## Instal·lació
 
 * Baixar repositori:
