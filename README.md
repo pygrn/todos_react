@@ -20,3 +20,7 @@ Projecte que forma part de la xerrada de **Python Girona** del dia 15 de Novembr
 * Arrancar projecte:
 
   ```npm start```
+
+* Arrancar tests:
+
+  ```npm test```
