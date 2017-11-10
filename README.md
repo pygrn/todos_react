@@ -43,3 +43,13 @@ Per a canviar de tags, un cop tenim el projecte baixat i situats dins la carpeta
 ```bash
 git checkout 0_inicial
 ```
+
+## Idees per anar implementant
+
+- [ ] Alta de TODO
+- [ ] Eliminació de TODO
+- [ ] Modificació de TODO
+- [ ] Afegir Redux
+- [ ] Afegir navegació amb URLS
+- [ ] Carregar components asíncronament
+- [ ] Internacionalització del projecte
