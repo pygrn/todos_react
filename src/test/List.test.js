@@ -1,9 +1,11 @@
 import React from 'react'
-import Main from '../components/Main'
+import List from '../components/List'
 import renderer from 'react-test-renderer'
 
-test('Main', () => {
-    const component = renderer.create(<Main/>)
+jest.mock('../lib/apiclient')
+
+test('List', () => {
+    const component = renderer.create(<List/>)
     let tree = component.toJSON()
     expect(tree).toMatchSnapshot()
 })

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Row 1`] = `
+<tr>
+  <td>
+    Todo 1
+  </td>
+  <td>
+    2017-11-08T21:01:35Z
+  </td>
+</tr>
+`;

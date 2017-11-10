@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List 1`] = `
+<div>
+  <h1>
+    List
+  </h1>
+  <table
+    className="table striped"
+  >
+    <thead>
+      <tr>
+        <th>
+          Description
+        </th>
+        <th>
+          Due Date
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+  <br />
+  <button
+    className="btn waves-effect waves-light"
+    disabled={true}
+    onClick={[Function]}
+  >
+    Loading
+  </button>
+</div>
+`;
