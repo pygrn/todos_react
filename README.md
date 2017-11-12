@@ -37,6 +37,7 @@ veure com ha evolucionat el codi d'un tag a l'altre. A continuació detalle què
 | 0_inicial | És el projecte tot just acabat de crear amb *create-react-app*, sende cap modificació. |
 | 1_materialize | Es restructuren les carpetes, deixan una per a components, una altre per a libs i una altre per a tests. També s'afegeix *materializecss* i es deixa un *h1* a la home. |
 | 2_llistat | Aquesta ja és la primrea versió funcional, que mostra el llistat de todos obtenint-los d'un servei *REST*. També s'ha afegit un botó per actualitzar-lo. |
+| 3_alta |  Alta d'un TODO. De moment no està enllaçat amb al llistat, pel que després de donar d'alta, s'ha de prémer manualment el "refrescar". |
 
 Per a canviar de tags, un cop tenim el projecte baixat i situats dins la carpeta:
 
